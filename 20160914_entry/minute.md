@@ -177,7 +177,7 @@ Levels: 0 1 99
     - original data: default of credit card clients Data Set
         - http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
     - リンク切れならこっち
-        - [creditdefault.csv](creditdefault.csv, "creditdefault.csv")
+        - [creditdefault.csv](creditdefault.csv "creditdefault.csv")
 
 ```sh
 > getwd()
