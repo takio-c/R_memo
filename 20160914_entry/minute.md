@@ -383,4 +383,5 @@ Confusion matrix:
 - 教則本
     - みんなのR
     - Rによるデータサイエンス-データ解析の基礎から最新手法まで
-        - PDFなら無料版があるらしい。（未確認
+        - ftp://tech.obihiro.ac.jp/suzuki/mjin_R.pdf
+        - https://www1.doshisha.ac.jp/~mjin/R/index.html
